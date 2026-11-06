@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Office 临时文件与备份
+~$*
+*.bak-*
+*.tmp
+
+# 生成的预览与中间文件
+*.preview.pdf
+*_preview/
+preview/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
